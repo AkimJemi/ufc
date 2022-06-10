@@ -1,0 +1,9 @@
+DROP TRIGGER IF EXISTS itemlogger;
+DELIMITER $$
+CREATE TRIGGER itemlogger AFTER INSERT ON member FOR EACH ROW
+BEGIN
+
+INSERT INTO book( no ,res_Nvm) value ( (SELECT no FROM member ORDER BY no DESC LIMIT 1), 'none');
+
+END$$
+DELIMITER ;
