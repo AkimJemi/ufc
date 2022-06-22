@@ -26,6 +26,8 @@ public class Paging {
 					else
 						end = total / limit + 1;
 				}
+				if (currentPage >= end)
+					this.currentPage = end;
 				if (begin <= 5)
 					backward = false;
 				else
@@ -34,44 +36,6 @@ public class Paging {
 			}
 		}
 	}
-
-	public int getBegin() {
-		return begin;
-	}
-	public void setBegin(int begin) {
-		this.begin = begin;
-	}
-	public int getEnd() {
-		return end;
-	}
-	public void setEnd(int end) {
-		this.end = end;
-	}
-	public int getTotal() {
-		return total;
-	}
-	public void setTotal(int total) {
-		this.total = total;
-	}
-	public int getLimit() {
-		return limit;
-	}
-	public void setLimit(int limit) {
-		this.limit = limit;
-	}
-	public Boolean getForward() {
-		return forward;
-	}
-	public void setForward(Boolean forward) {
-		this.forward = forward;
-	}
-	public Boolean getBackward() {
-		return backward;
-	}
-	public void setBackward(Boolean backward) {
-		this.backward = backward;
-	}
-
 }
 // Controller
 int paging = 1;
