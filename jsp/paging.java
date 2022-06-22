@@ -1,19 +1,9 @@
 // Model
-public class Paging {
-	private int begin;
-	private int end;
-	private int total;
-	private int limit = 10;
-	private Boolean forward;
-	private Boolean backward;
-	public Paging(int begin, int end, boolean forward, boolean backward) {
-		this.begin = begin;
-		this.end = end;
-		this.forward = forward;
-		this.backward = backward;
-	}
-	public Paging(int currentPage, int total) {
+public Paging(int total, int currentPage, int searchTitle, String searchContent) {
 		this.total = total;
+		this.currentPage = currentPage;
+		this.searchTitle = searchTitle;
+		this.searchContent = searchContent;
 		for (int i = 1; i > -1; i++) {
 			if (currentPage >= (i - 1) * 5 + 1 && currentPage <= i * 5) {
 				begin = (i - 1) * 5 + 1;
@@ -26,17 +16,27 @@ public class Paging {
 					else
 						end = total / limit + 1;
 				}
-				if (currentPage >= end)
-					this.currentPage = end;
 				if (begin <= 5)
 					backward = false;
 				else
 					backward = true;
+
+				if (currentPage >= end)
+					this.currentPage = end;
+
+				if (currentPage > end) {
+					for (int j = 1; j > -1; j++)
+						if (end >= (j - 1) * 5 + 1 && end <= j * 5) {
+							begin = (j - 1) * 5 + 1;
+							break;
+						}
+				}
 				break;
 			}
+
 		}
 	}
-}
+
 // Controller
 int paging = 1;
 		if (rq.getParameter("paging") != null)
