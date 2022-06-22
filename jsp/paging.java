@@ -16,24 +16,21 @@ public Paging(int total, int currentPage, int searchTitle, String searchContent)
 					else
 						end = total / limit + 1;
 				}
-				if (begin <= 5)
-					backward = false;
-				else
-					backward = true;
-
-				if (currentPage >= end)
+				if (currentPage >= end) {
 					this.currentPage = end;
-
-				if (currentPage > end) {
-					for (int j = 1; j > -1; j++)
+					for (int j = 1; j > -1; j++) {
 						if (end >= (j - 1) * 5 + 1 && end <= j * 5) {
 							begin = (j - 1) * 5 + 1;
 							break;
 						}
+					}
 				}
+				if (begin <= 5)
+					backward = false;
+				else
+					backward = true;
 				break;
 			}
-
 		}
 	}
 
