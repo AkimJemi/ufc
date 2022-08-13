@@ -1,6 +1,8 @@
 <script type="text/javascript">
 function ajaxFunciton() {
-			$.get('/ajax', {
+			$.get(
+			'/ajax', 
+			{
 				test : 5,
 				test1 : 1
 			}, function(data) {
