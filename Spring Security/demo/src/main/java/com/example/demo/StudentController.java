@@ -20,9 +20,7 @@ public class StudentController {
 
     @GetMapping(path = "{studentId}")
     public Student getStudent(@PathVariable("studentId") Integer studentId) {
-        System.out.println("tt" + studentId);
         Student st = new Student(1,"2");
         return st;
-//        return STUDENT.stream
     }
 }
