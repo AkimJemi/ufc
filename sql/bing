@@ -1,0 +1,7 @@
+<jpN.BING>
+	<bind name="name" value="'%' + _parameter.getName() + '%'" />
+	SELECT
+	*
+	ROM STUDY_JA
+	WHERE NAME LIKE #{name}
+	AND DELETE_FLAG = 0
