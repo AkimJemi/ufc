@@ -1,0 +1,46 @@
+＜事前準備＞
+　１．Developer環境取得
+　　Salesforceには、自身の開発環境として、無料で『Developer  Edition』を取得することが
+できます。
+　
+　　?Developer環境を作成は、下記URLからおこないます。
+　　　URL： https://developer.salesforce.com/signup
+　　
+　　　※ユーザ名：Salesforceにログインする時に使用するユーザIDとなります。
+　　　　メールアドレス形式で設定しなければなりませんが、メールアドレスは架空のアドレス
+でも大丈夫です。
+　　
+　　?『サインアップ』押下後にSalesforceから設定したメールアドレスにメールが送信されま
+す。
+　　　・メール本文中のURLへ遷移
+　　　・「アカウントを確認」をクリック
+　　　・パスワードを設定し『パスワードを変更』ボタンを押下
+　　　　→Saleseforceの画面が表示されたら登録完了となります。
+　　
+　　※以降は下記のURLからログインを行います。
+　　　URL： https://login.salesforce.com/
+　
+　
+　２．Trailhead初期登録方法
+　　以下動画をご参考にTrailheadアカウントを作成
+　　https://salesforce.vidyard.com/watch/pmj9rvTxq86Hs8yhqaXqfA
+　　
+
+＜学習リンク集＞
+　　・Sales Cloud でセールスを迅速化
+　　https://trailhead.salesforce.com/ja/trails/lex_end_user
+　　
+　　・Salesforce の概要
+　　https://trailhead.salesforce.com/ja/trails/salesforce_advantage
+　　
+　　・Lightning Experience の CRM の基礎学習
+　　https://trailhead.salesforce.com/ja/content/learn/trails/crm-essentials-lightning-experience
+　　
+　　・システム管理者初級 
+　　https://trailhead.salesforce.com/ja/trails/force_com_admin_beginner
+　　
+　　・セールスフォース用語の説明
+　　https://qiita.com/na0AaooQ/items/c2678f5e809923fa9fb5
+
+***********************************************
+

@@ -1,0 +1,4 @@
+마우스 오른쪽 팝업창을 원래대로 돌리는 방법
+cmd regedit
+레지스트리 키 입력 : {86ca1aa0-34aa-4e8b-a509-50c905bae2a2}
+두 번째 키 값 : InprocServer32
