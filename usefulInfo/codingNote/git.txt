@@ -1,0 +1,19 @@
+1. 클론 받을 폴더 생성
+
+-> git init
+
+2. 해당 폴더에 Sparse Checkout 기능 활성화
+
+-> git config core.sparseCheckout true
+
+3. remote 추가('{, }' 제거)
+
+-> git remote add -f origin <remote url>
+
+4. checkout 하기 원하는 파일 또는 폴더 정의('{, }' 제거)
+
+-> echo "{src/web/}" >> .git/info/sparse-checkout
+
+5. pull 요청
+
+-> git pull origin master
