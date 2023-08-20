@@ -1,0 +1,60 @@
+Bash 쉘
+터미널
+HW(컴퓨터)
+
+
+
+
+
+Shell = CLI(Command Line Interface)
+
+
+
+
+
+리눅스 기본폴더
+내장 명령어
+s - 시스템
+/bin
+/sbin
+/usr/bin
+/usr/sbin
+
+
+
+
+
+
+whatis ls
+
+내장된 명령어 인지 확인하는 방법
+compgen -b cd
+compgen -c
+
+/bin
+/boot
+/dev
+/
+
+
+#mysql 프로세스 보기
+ps -ef | grep mysql 
+#실행중인 프로세스는 /proc/ 아래 생긴다
+cd /proc/포로세스 번호
+cat /proc/cpuinfo
+
+
+ls -il
+
+
+Linux Ports
+
+history의 19번 실행
+!19
+그리고 바로 다음꺼 실행
+!!
+
+
+ll /usr/bin/sh
+
+

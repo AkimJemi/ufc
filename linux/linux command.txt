@@ -1,0 +1,13 @@
+sudo rm -rf 
+
+
+uname -a
+hostname
+sudo reboot
+
+
+
+#매우 조심
+sudo halt -p
+
+
