@@ -4,109 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c36811b3219cd2",
+        "id": "f30863363e296a18",
         "type": "tabs",
         "children": [
           {
-            "id": "e28d3f2b04841120",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "097dd482c5b854a0",
+            "id": "c3ad61110defee61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Japanese.md",
+                "file": "Topic I wanna talk.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6472818a86f7e930",
+            "id": "85f286d65f3c7f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/リスコ.md",
+                "file": "Arabic.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8656c88b1686c56c",
+            "id": "b24b9ce2f3d92fa2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "b0ccc6d4cdaeb65c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/リスコ.md",
+                "file": "リスコ日本語教育.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa3d259654348f12",
+            "id": "9608e45e8671114f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study.md",
+                "file": "Country.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1d7db8d41d09eb45",
+            "id": "bfde5036ea4d8b26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Japanese.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfe9e70efbf79380",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/リスコ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8e4293f7adb6031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Correct Japanese.md",
+                "file": "English Reddit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Correct Japanese.md",
+                "file": "Country.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Correct Japanese.md",
+                "file": "Country.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Correct Japanese.md"
+                "file": "Country.md"
               }
             }
           }
@@ -220,28 +192,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true
     }
   },
-  "active": "e8e4293f7adb6031",
+  "active": "9608e45e8671114f",
   "lastOpenFiles": [
-    "Study/リスコ.md",
-    "Study/Japanese.md",
+    "リスコ日本語教育.md",
+    "Country.md",
+    "日本語敬語勉強.md",
+    "Arabic Note 001.md",
+    "Reddit.md",
     "Study.md",
-    "Template/Study.canvas",
-    "Study/Correct Japanese.md",
+    "Untitled.md",
+    "Topic I wanna talk.md",
+    "English Reddit.md",
+    "Arabic.md",
     "Daily Note/Daily Note.md",
-    "2023-09-19.md",
+    "English/English Programming.md",
+    "기타.md",
+    "質問.md",
+    "YeeTalk.md",
+    "Untitled 2.md",
+    "Coding.md",
+    "2023-01-04.md",
+    "2023-01-02.md",
+    "jlpt-n1.md",
+    "Schedule.md",
+    "Untitled.canvas",
+    "Untitled 4.md",
+    "Neka.md",
+    "HelloTalk Japanese.md",
+    "English/English 라이브 아카데미.md",
+    "English/English 라이브 아카데미 토들러.md",
+    "Template/Study.canvas",
+    "English",
+    "Japanese",
+    "Words",
     "Daily Note",
     "Template",
     "Study"

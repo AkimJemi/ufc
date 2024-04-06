@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"e256f4a5cd948c7b","x":-271,"y":-400,"width":400,"height":404,"type":"file","file":"Study.md"}
+		{"id":"e256f4a5cd948c7b","type":"file","file":"Study.md","x":-451,"y":-500,"width":400,"height":404},
+		{"id":"fa1a58abded54e05","x":74,"y":-400,"width":250,"height":129,"type":"text","text":""},
+		{"id":"aca8ab5762e26719","x":-40,"y":-280,"width":400,"height":400,"type":"file","file":"Words/空気を読む.md"}
 	],
 	"edges":[]
 }
