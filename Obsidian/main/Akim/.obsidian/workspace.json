@@ -69,9 +69,11 @@
             "id": "06996e088dda68ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "リスコ日本語教育.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Country.md",
+                "file": "リスコ日本語教育.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Country.md",
+                "file": "リスコ日本語教育.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Country.md"
+                "file": "リスコ日本語教育.md"
               }
             }
           }
