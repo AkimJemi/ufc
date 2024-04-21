@@ -66,6 +66,16 @@
             }
           },
           {
+            "id": "06996e088dda68ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "bfde5036ea4d8b26",
             "type": "leaf",
             "state": {
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,7 +215,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "9608e45e8671114f",
+  "active": "06996e088dda68ac",
   "lastOpenFiles": [
     "リスコ日本語教育.md",
     "Country.md",
