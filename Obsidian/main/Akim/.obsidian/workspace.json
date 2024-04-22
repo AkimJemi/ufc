@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "リスコ日本語教育.md",
+                "file": "沪江日语/日语能力考N2核心语法（1）.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "リスコ日本語教育.md",
+                "file": "沪江日语/日语能力考N2核心语法（1）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "リスコ日本語教育.md",
+                "file": "沪江日语/日语能力考N2核心语法（1）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "リスコ日本語教育.md"
+                "file": "沪江日语/日语能力考N2核心语法（1）.md"
               }
             }
           }
@@ -219,9 +219,11 @@
   },
   "active": "06996e088dda68ac",
   "lastOpenFiles": [
+    "日本語敬語勉強.md",
+    "沪江日语/日语能力考N2核心语法（1）.md",
+    "沪江日语",
     "リスコ日本語教育.md",
     "Country.md",
-    "日本語敬語勉強.md",
     "Arabic Note 001.md",
     "Reddit.md",
     "Study.md",
@@ -245,7 +247,6 @@
     "Neka.md",
     "HelloTalk Japanese.md",
     "English/English 라이브 아카데미.md",
-    "English/English 라이브 아카데미 토들러.md",
     "Template/Study.canvas",
     "English",
     "Japanese",
