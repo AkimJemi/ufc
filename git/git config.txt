@@ -1,0 +1,93 @@
+https://note.nkmk.me/git-config-setting/
+
+Gitの設定をgit configで確認・変更
+Modified: 2016-12-07 | Tags: Git
+Gitの設定（ユーザー名やメールアドレスなど）をgit configで確認・変更する方法について、以下の内容を説明する。
+
+Gitの設定ファイルの種類と場所（system, global, local）
+git configコマンドによる設定の確認・変更
+設定項目
+設定の確認
+設定の一覧表示
+設定の変更
+設定ファイルをエディタで直接編集
+
+Gitの設定ファイルの種類と場所（system, global, local）
+Gitの設定ファイルは3種類ある。
+
+種類	対象範囲	場所の例	備考
+system	システム全体（全ユーザーの全リポジトリ）	/etc/gitconfig	-
+global	該当ユーザーの全リポジトリ	~/.gitconfig	ホーム直下
+local	該当リポジトリ	repository/.git/config	リポジトリの.git直下
+system, global, localの順に読み込まれる。例えば、systemとlocalで同じ項目が設定されている場合はlocalの値が有効になる。
+
+なお、以下で説明するgit configコマンドでそれぞれの設定ファイルの確認・編集が可能なので、ファイルの置き場所を気にする必要は特にない。
+
+git configコマンドによる設定の確認・変更
+設定に対する確認や変更などの処理はgit configコマンドを使う。
+
+設定項目
+設定項目の一覧およびその詳細は以下のリンクから。
+
+Git - git-config Documentation
+山ほどあるが、例えば、
+
+color.ui : Gitの出力の色分け（通常はautoと設定）
+core.editor : コミットメッセージなどの編集で用いるエディタ
+user.name : ユーザー名
+user.email : Eメールアドレス
+などがある。
+
+設定の確認
+git config <name>で各項目の設定を確認できる。<name>には上述の設定項目（例えばuser.email）を入れる。
+
+コマンドを実行した場所で有効になっている値が表示される。値が設定されていない場合は何も表示されない。
+
+$ git config <name>
+
+# 例
+$ git config user.email
+example@example.com
+local, system, globalそれぞれにおける項目の設定値を確認したい場合はオプションをつける。
+
+$ git config --local <name>
+$ git config --global <name>
+$ git config --system <name>
+localはリポジトリごとの設定なので、--localオプションはリポジトリ内でのみ有効。Gitで管理されていない場所（Gitリポジトリの外側）で--localを付けて実行するとエラーとなる。
+
+# Gitリポジトリの外側で実行した場合
+$ git config --local <name>
+fatal: --local can only be used inside a git repository
+設定の一覧表示
+git config -l（またはgit config --list）で、コマンドを実行した場所で有効になっている設定項目とその設定値がすべて表示される。
+
+$ git config -l
+local, system, globalのそれぞれの設定を個別に確認する場合はオプションを付ける。
+
+$ git config --local -l
+$ git config --global -l
+$ git config --system -l
+設定の変更
+git config <name> <value>で各項目の設定を変更できる。<name>には上述の設定項目user.emailなどを入れ、<value>には設定する（上書きする）値を入れる。
+
+デフォルト（オプションなし）ではlocalの設定が変更される。
+
+globalやsystemの設定を変更したい場合はオプションを付ける。
+
+$ git config <name> <value>  # ローカルの設定を変更
+$ git config --global <name> <value>
+$ git config --system <name> <value>
+例えば、user.emailをどのリポジトリでも共通にしたい場合は--globalオプションを付けて以下のように設定する。
+
+$ git config --global user.email example@example.com
+Gitで管理されていない場所（Gitリポジトリの外側）でオプションなしで実行するとエラーとなる。local（リポジトリごとの設定）を変更したい場合は該当のリポジトリ内に移動して実行する。
+
+# Gitリポジトリの外側で実行した場合
+$ git config <name> <value>
+fatal: not in a git directory
+設定ファイルをエディタで直接編集
+git config -e（またはgit config --edit）で設定ファイルをエディタで直接編集することもできる。
+
+$ git config -e  # ローカルの設定を変更
+$ git config --global -e
+$ git config --system -e
