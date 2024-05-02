@@ -1,3 +1,5 @@
+$ git commit -a -m "message"
+
 https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed
 [Git]コミットの取り消し、打ち消し、上書き
 Git
