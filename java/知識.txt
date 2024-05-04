@@ -1,0 +1,2 @@
+여기서 'mapToInt(integer -> integer)' integer 를 integer로 다시 변경해주는 이유가 무엇인가요.?
+→List에 받은 자료형은 Wrapper 객체인 `Integer`이므로 Primitive 타입인 `int`의 배열로 만들기 위해 형 변환해주는 과정입니다.

@@ -1,0 +1,7 @@
+変数の導入：Ctrl + Alt + v
+Extract Field：Ctrl + Alt + f
+Extract Constant：Ctrl + Alt + c
+パラメーターの導入：Ctrl + Alt + p
+
+
+
