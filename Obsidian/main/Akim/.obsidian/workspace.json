@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/How to study.md",
+                "file": "沪江日语/日语能力考N2核心语法（6）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e7d003e73e0bf4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "沪江日语/日语能力考N2核心语法（7）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 271.50353622436523
   },
   "right": {
     "id": "b992846b39206ddd",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/How to study.md",
+                "file": "沪江日语/日语能力考N2核心语法（7）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/How to study.md",
+                "file": "沪江日语/日语能力考N2核心语法（7）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/How to study.md"
+                "file": "沪江日语/日语能力考N2核心语法（7）.md"
               }
             }
           }
@@ -183,9 +195,11 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "d8566fee9552b2cc",
+  "active": "5e7d003e73e0bf4a",
   "lastOpenFiles": [
     "沪江日语/日语能力考N2核心语法（6）.md",
+    "沪江日语/日语能力考N2核心语法（7）.md",
+    "Japanese/N2 Grammar.md",
     "Programming/How to study.md",
     "Programming",
     "沪江日语/日语能力考N2核心语法（5）.md",
@@ -211,8 +225,6 @@
     "質問.md",
     "YeeTalk.md",
     "Coding.md",
-    "2023-01-04.md",
-    "2023-01-02.md",
     "Untitled.canvas",
     "Template/Study.canvas",
     "English",
