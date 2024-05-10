@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58dbff8cc7cd91fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沪江日语/日语能力考N2核心语法（2）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "938ca070764efc3e",
             "type": "leaf",
             "state": {
@@ -62,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "沪江日语/日语能力考N2核心语法（7）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c47510a1b983f014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日语能力考N2核心语法（8）.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50353622436523
+    "width": 255.5100555419922
   },
   "right": {
     "id": "b992846b39206ddd",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沪江日语/日语能力考N2核心语法（7）.md",
+                "file": "日语能力考N2核心语法（8）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "沪江日语/日语能力考N2核心语法（7）.md",
+                "file": "日语能力考N2核心语法（8）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "沪江日语/日语能力考N2核心语法（7）.md"
+                "file": "日语能力考N2核心语法（8）.md"
               }
             }
           }
@@ -195,16 +195,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5e7d003e73e0bf4a",
+  "active": "c47510a1b983f014",
   "lastOpenFiles": [
-    "沪江日语/日语能力考N2核心语法（6）.md",
+    "沪江日语/日语能力考N2核心语法（2）.md",
+    "日语能力考N2核心语法（8）.md",
     "沪江日语/日语能力考N2核心语法（7）.md",
+    "沪江日语/日语能力考N2核心语法（6）.md",
     "Japanese/N2 Grammar.md",
     "Programming/How to study.md",
     "Programming",
     "沪江日语/日语能力考N2核心语法（5）.md",
     "沪江日语/日语能力考N2核心语法（1）.md",
-    "沪江日语/日语能力考N2核心语法（2）.md",
     "Untitled.md",
     "沪江日语/日语能力考N2核心语法（4）.md",
     "沪江日语/日语能力考N2核心语法（3）.md",
@@ -224,7 +225,6 @@
     "기타.md",
     "質問.md",
     "YeeTalk.md",
-    "Coding.md",
     "Untitled.canvas",
     "Template/Study.canvas",
     "English",
