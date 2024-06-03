@@ -1,0 +1,9 @@
+﻿//キーボードマクロのファイル
+ReplaceAll('^', '"', 44);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('\\r\\n', '",\\r\\n', 44);	// すべて置換
+ReDraw(0);	// 再描画
+GoFileEnd(0);	// ファイルの最後に移動
+WordRight(0);	// 単語の右端に移動
+DeleteBack(0);	// カーソル前を削除
+DeleteBack(0);	// カーソル前を削除
