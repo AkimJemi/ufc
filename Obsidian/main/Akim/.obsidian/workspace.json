@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "938ca070764efc3e",
+            "id": "35d0750a8064e0d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "沪江日语/日语能力考N2核心语法（2）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7957f193bc00d93f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沪江日语/日语能力考N2核心语法（5）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8566fee9552b2cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沪江日语/日语能力考N2核心语法（6）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e7d003e73e0bf4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沪江日语/日语能力考N2核心语法（7）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47510a1b983f014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沪江日语/日语能力考N2核心语法（8）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efcda5808e94d665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沪江日语/日语能力考N2核心语法（5）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "027841e74dad3d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沪江日语/日语能力考N2核心语法（9）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3c9a00a822a1242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沪江日语/日语能力考N2核心语法（3）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bebd04c8a6ab2c58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기타/용어.md",
+                "file": "English/Chat GPT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5100555419922
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b992846b39206ddd",
@@ -182,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/용어.md",
+                "file": "English/Chat GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/용어.md",
+                "file": "English/Chat GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/용어.md"
+                "file": "English/Chat GPT.md"
               }
             }
           }
@@ -243,15 +147,19 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "bebd04c8a6ab2c58",
+  "active": "35d0750a8064e0d3",
   "lastOpenFiles": [
-    "沪江日语/日语能力考N2核心语法（3）.md",
+    "Japanese/의문의 도라이 Dorai.md",
+    "English/Chat GPT.md",
+    "Japanese/日本語敬語勉強.md",
+    "Japanese/リスコ日本語教育.md",
+    "Untitled 3.md",
     "기타/용어.md",
+    "沪江日语/日语能力考N2核心语法（3）.md",
     "Daily Note/Daily Note.md",
     "기타",
     "Template/Study.canvas",
     "Programming/How to study.md",
-    "Japanese/의문의 도라이 Dorai.md",
     "沪江日语/日语能力考N2核心语法（8）.md",
     "沪江日语/日语能力考N2核心语法（9）.md",
     "沪江日语/日语能力考N2核心语法（5）.md",
@@ -266,15 +174,11 @@
     "沪江日语/日语能力考N2核心语法（4）.md",
     "Topic I wanna talk.md",
     "Arabic.md",
-    "リスコ日本語教育.md",
     "Country.md",
     "Untitled 1.md",
-    "日本語敬語勉強.md",
     "沪江日语",
     "Arabic Note 001.md",
     "Reddit.md",
-    "Study.md",
-    "English Reddit.md",
     "Untitled.canvas",
     "English",
     "Japanese",
