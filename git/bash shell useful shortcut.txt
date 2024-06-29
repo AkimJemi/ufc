@@ -1,0 +1,25 @@
+
+!!
+
+!$test
+
+!$test:ip
+
+!$:p
+
+
+
+#ShortCut
+Alt + .
+
+C + u
+C + y
+A + t
+C + t
+A + c
+
+A + u
+A + l
+C + /
+C + Delete 
+A + r
