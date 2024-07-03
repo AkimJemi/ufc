@@ -1,4 +1,9 @@
 ## English Studying
+How do you answer when asked a question like that?
+how do I ask someone
+
+
+
 I don't know currently, but I feel like in an upcoming conversation, I hope you'll correct my English before you answer my question.
 
 Does my English sound natural?

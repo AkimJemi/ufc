@@ -1,3 +1,7 @@
+git ls-files --stage
+git cat-file -t <object>
+git cat-file -p <object>
+
 $ git commit -a -m "message"
 
 https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed
