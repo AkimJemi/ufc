@@ -1,3 +1,22 @@
+감사합니다  슈컨
+잘 지냈어? 케이프 할룻
+나 잘 지냈어? 
+뭐하고 있어??  마다 다프한 알안
+아무것도 안하고 있어. 라세이크
+행복하다 사이둔둔
+만나서 반갑습니다. saeid biliqayik سعيد بلقائك
+ kam eumarka?
+\
+'ana 'atahadath alearabiat bishakl jayid
+
+
+sayakun mustaqbilak mshrqan dayman. 'iinani 'atatalae 'iilaa dhalika. سيكون مستقبلك مشرقًا دائمًا. إنني أتطلع إلى ذلك.
+여러분을 사랑합니다.
+أحبكم جميعاً. 'ahibukum jmyeaan.
+
+
+
+
 1How are you?
 كيف حالك؟
 2What is your name?
