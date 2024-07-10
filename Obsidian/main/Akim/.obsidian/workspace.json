@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/単語リスト.md",
+                "file": "Japanese/リスコ日本語教育.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/単語リスト.md",
+                "file": "Japanese/リスコ日本語教育.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/単語リスト.md",
+                "file": "Japanese/リスコ日本語教育.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese/単語リスト.md"
+                "file": "Japanese/リスコ日本語教育.md"
               }
             }
           }
@@ -161,12 +161,12 @@
   },
   "active": "dd586a5c3ac0cb06",
   "lastOpenFiles": [
+    "Japanese/単語リスト.md",
+    "Japanese/日本語敬語勉強.md",
+    "Japanese/日本語.md",
+    "Japanese/リスコ日本語教育.md",
     "Japanese/jlpt-n1.md",
     "Japanese/의문의 도라이 Dorai.md",
-    "Japanese/単語リスト.md",
-    "Japanese/日本語.md",
-    "Japanese/日本語敬語勉強.md",
-    "Japanese/リスコ日本語教育.md",
     "Arabic.md",
     "Arabic Note 001.md",
     "Japanese/Chat GPT.md",
