@@ -1,0 +1,99 @@
+Linuxの資格試験の内容
+LPICとLinuCの試験内容を詳しく解説します。人材育成の手段として検討する際の参考にしてください。
+
+LPICの試験内容
+LPICは、全部で3段階のレベルに分かれています。LPICのレベルは、以下の通りです。
+
+LPIC-1
+LPIC-2
+LPIC-3
+LPIC-1
+LPIC-1は、Linuxを使ったサーバー構築や運用、保守ができるエンジニアであると証明できる資格です。各レベルのなかで最も低い難易度になりますが、LPIC-1の資格を取れば、キャリアアップに役立ちます。LPIC-1には、2種類の試験があります。LPIC-1の2種類の試験は、以下の通りです。
+
+101試験
+102試験
+LPIC-1の資格を取るには、101試験と102試験の2つに合格しなければなりません。
+101試験
+101試験の試験範囲は、以下の通りです。
+
+システムアーキテクチャ
+GNUとUnixコマンド
+Linuxのインストールとパッケージ管理
+デバイス、Linuxファイルシステム、ファイルシステム階層標準
+102試験
+102試験の試験範囲は、以下の通りです。
+
+シェル、スクリプト
+ユーザーの追加やアカウントの作成と管理
+ユーザーインターフェースとデスクトップ
+必須システムサービス
+セキュリティ
+ネットワークの基礎
+
+
+LPIC-2
+LPIC-2は、小規模から中規模のサーバーを自身のスキルで構築、運用できるエンジニアであると証明できる資格です。LPIC-2の資格を持っている人材は、IT業界で重宝されています。LPIC-2には、2種類の試験があります。LPIC-2の2種類の試験は、以下の通りです。
+
+201試験
+202試験
+LPIC-2の資格を取るには、201試験と202試験の2つに合格しなければなりません。
+201試験
+201試験の試験範囲は、以下の通りです。
+
+サーバーのキャパシティプランニング
+システムの起動、ファイルシステムとデバイス
+Linuxカーネル
+ネットワーク構成
+高度なストレージ管理
+システムの保守
+202試験
+202試験の試験範囲は、以下の通りです。
+
+ドメインネームサーバー
+ファイル共有
+Webサービス
+ネットワーククライアントの管理
+システムのセキュリティ
+電子メールサービス
+
+
+LPIC-3
+LPIC-3は、LPIC-1、LPIC-2と比べて、大きく難易度が上がります。LPIC-3には、4種類の試験があります。LPIC-3の4種類の試験は、以下の通りです。
+
+LPIC-3 300 Mixed Environment
+LPIC-3 303 Security
+LPIC-3 305 Virtualization and Containerization
+LPIC-3 306 High Availability and Storage Clusters
+LPIC-3は、上記4種類の内1つの試験に合格すれば、資格を取得できます。
+LPIC-3 300 Mixed Environment
+LPIC-3 300 Mixed Environmentの試験範囲は、以下の通りです。
+
+Sambaの基礎
+Sambaとアクティブディレクトリドメイン
+Samba共有の設定
+Sambaクライアントの設定
+Linuxのアイデンティティ管理とファイル共有
+LPIC-3 300 Mixed Environmentに合格すれば、LinuxやUnix、Windowsが混在する環境を設計、構築、運用・保守ができるエンジニアであると証明できます。
+LPIC-3 303 Security
+LPIC-3 303 Securityの試験範囲は、以下の通りです。
+
+暗号化
+ホストセキュリティ
+Access Control
+ネットワークセキュリティ
+脅威と脆弱性評価
+LPIC-3 303 Securityでは、セキュリティに関する知識を中心に問われます。
+LPIC-3 305 Virtualization and Containerization
+LPIC-3 305 Virtualization and Containerizationの試験範囲は、以下の通りです。
+
+完全仮想化
+コンテナ仮想化
+VMのデプロイメントとプロビジョニング
+LPIC-3 306 High Availability and Storage Clusters
+LPIC-3 306 High Availability and Storage Clustersの試験範囲は、以下の通りです。
+
+High Availability Cluster Management
+HAクラスタストレージ
+HA分散ストレージ
+単一ノードHA
+試験は、クラウド環境に関する内容になっています。

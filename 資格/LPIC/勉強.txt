@@ -1,0 +1,48 @@
+rpm
+ rpm -i
+ rpm -U (--upgrade)
+ rpm -F (--freshen)
+併用オプション
+ -v
+ -h (--hash)
+ --nodeps
+ --force
+ --test
+
+rpm -e (--erase)
+ 併用オプション
+ --nodeps
+
+ オプション
+rpm -q
+ 併用オプション
+ -a (--all)
+ -f filename
+ -p packagename
+ -c (--configfiles
+ -d (--docfiles)
+ -i (--info)
+ -l (list)
+ -R (--requires)
+ --changelog
+
+ 
+ 
+ 
+
+yumコマンド
+-/etc/yum.conf
+-/etc/yum.repos.d
+
+yum check-update
+yum update packagename
+
+yum install #
+yum remove #
+yum info #
+yum list #
+yum search #
+yum search all #
+yumdownloader
+yum grouplist
+yum groupinstall #
