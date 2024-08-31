@@ -1,0 +1,33 @@
+日本語　JLPT
+英語　Toeic
+Java　Oracle
+Linux　Lpic
+
+基本情報技術者試験 １月
+応用情報技術者試験 １月
+ITストラテジスト試験 １月
+
+
+
+試験区分	レベル	略号	英語名称
+基本情報技術者試験	2	FE	Fundamental Information Technology Engineer Examination
+応用情報技術者試験	3	AP	Applied Information Technology Engineer Examination
+ITストラテジスト試験	4	ST	Information Technology Strategist Examination
+システムアーキテクト試験	4	SA	Systems Architect Examination
+プロジェクトマネージャ試験	4	PM	Project Manager Examination
+ネットワークスペシャリスト試験	4	NW	Network Specialist Examination
+データベーススペシャリスト試験	4	DB	Database Specialist Examination
+エンベデッドシステムスペシャリスト試験	4	ES	Embedded Systems Specialist Examination
+ITサービスマネージャ試験	4	SM	Information Technology Service Manager Examination
+システム監査技術者試験	4	AU	Systems Auditor Examination
+
+
+# JLPT
+https://info.jees-jlpt.jp/info/2024%e5%b9%b4%e7%ac%ac2%e5%9b%9e%e8%a9%a6%e9%a8%93%e5%ae%9f%e6%96%bd%e6%a1%88%e5%86%85.html
+
+# Toeic
+https://www.iibc-global.org/toeic/test/lr/guide01/schedule.html
+
+
+
+https://www.ap-siken.com/index_te.html#1_1
