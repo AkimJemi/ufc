@@ -1,0 +1,8 @@
+論理式P，Qがいずれも真であるとき，論理式Rの真偽にかかわらず真になる式はどれか。ここで，"￣"は否定，"∨"は論理和，"∧"は論理積，"→"は含意("真→偽"となるときに限り偽となる演算)を表す。
+
+<div class="ansbg R3tfxFm5"><ul><li class="lia"><span class="cite">((P→Q)∧(Q→P))→(R→<span class="ol">Q</span>)</span><br>　((真→真)∧(真→真))→(R→偽)<br>＝(真∧真)→(R→偽)<br>＝真→(R→偽)<br><br>Rが真であれば式の結果は偽、Rが偽であれば式の結果は真になるため誤りです。</li><li class="lii"><span class="cite">((P→Q)∧(<span class="dol">Q→<span class="ol">P</span></span>))→(Q→R)</span><br>　((真→真)∧(<span class="ol">真→偽</span>))→(真→R)<br>＝(真∧真)→(真→R)<br>＝真→(真→R)<br><br>Rが真であれば式の結果は真、Rが偽であれば式の結果は偽になるため誤りです。</li><li class="liu"><span class="cite">((P→<span class="ol">Q</span>)∨(Q→P))→(R→<span class="ol">Q</span>)</span><br>　((真→偽)∨(真→真))→(R→偽)<br>＝(偽∨真)→(R→偽)<br>＝真→(R→偽)<br><br>「ア」と同じ式の形となるため誤りです。</li><li class="lie"><span class="cite">((P→<span class="ol">Q</span>)∨(Q→<span class="ol">P</span>))→(Q→R)</span><br>　((真→偽)∨(真→偽))→(真→R)<br>＝(偽∨偽)→(真→R)<br>＝偽→(真→R)<br><br>"→"の左辺が"偽"となるためRが存在する右辺の真偽に関わらず式全体の結果は常に「真」となります。したがってこれが<em class="r">正解</em>です。</li></ul></div>
+
+
+
+
+A，B，C，Dを論理変数とするとき，次のカルノー図と等価な論理式はどれか。ここで，・は論理積，＋は論理和，
