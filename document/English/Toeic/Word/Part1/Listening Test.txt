@@ -1,0 +1,140 @@
+(A)
+(B)
+(C)
+(D)
+
+
+◆Test1
+◇Part1 [4/6]
+1->C
+(A)
+(B)
+(C)look into a cabinet
+(D)
+
+A
+(A)
+(B)write on a notepad
+(C)
+(D)
+
+D
+(A)assembling a tent
+(B)
+(C)hold a pole
+(D)be seated by a body of water
+
+?B
+(A)being covered with a cloth
+(B)a ladder has been set up in a room
+(C)a door has been left closed
+(D)some curtains are being installed
+
+3
+(A)place a package on a shelf
+(B)put a label on a box
+(C)secure a box with tape
+(D)measure a wall
+
+1
+(A)cross over a river
+(B)a boat is docked at a pier
+(C)
+(D)board a ship
+
+◇Part2 [16/25]
+
+7　B
+expected at the press conference?
+8　C
+employee evaluation
+(A)be evaluated the designs
+9　A
+signed up for the book club
+10　B
+when will the first payment be made?
+(C)the overnight shipping fees
+11　C
+who signed for the package from Gyro Fabrics
+(C)receptionist
+12 A
+durable luggage
+13 B
+purchase a new house last year?
+(A)It is located near the bus stop
+(C)Reasonable insurance rates
+14 ?->A
+When will the new bookshelves be installed?
+(A)Eric handled the order
+(C)the author is well known
+15 ? ->A
+wear formal clothing at your workplace
+(A)it's expected
+(B)complete this form in lnk
+(C)a full-time position
+16 C
+at the weekly meeting
+(C)go over the sales progress
+17 B
+has keys to the file cabinet
+(B)be left for the day
+18 A
+(A)maintenance depatment
+19 C->B
+(A)
+(B)
+(C)
+20 ?->C
+(A)
+(B)
+(C)
+21 ?->C
+(A)
+(B)
+(C)
+22 C->A
+(A)
+(B)
+(C)
+23 B->C
+(A)
+(B)
+(C)
+24 A
+(A)
+(B)
+(C)
+25 C->B
+(A)
+(B)
+(C)
+26 B
+(A)
+(B)
+(C)
+27 A
+(A)
+(B)
+(C)
+28 A
+(A)
+(B)
+(C)
+29 B
+(A)
+(B)
+(C)
+30 C
+(A)
+(B)
+(C)
+31 ?->C
+(A)
+(B)
+(C)
+(A)
+(B)
+(C)
+(D)
+
+
