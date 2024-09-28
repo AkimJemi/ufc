@@ -1,0 +1,14 @@
+﻿//キーボードマクロのファイル
+CancelMode(0);	// 各種モードの取り消し
+ReplaceAll('<(/)?div*.+?>', '◆\\r\\n', 44);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('<(/)?li.+?><(/)?span.+?>', '\\r\\n', 44);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('</span><br>', '\\r\\n\\r\\n', 44);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('</li></ul>', '', 44);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('<ul>', '', 44);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('<em class="m">正しい</em>', '◇正しい\\r\\n', 44);	// すべて置換
+ReDraw(0);	// 再描画

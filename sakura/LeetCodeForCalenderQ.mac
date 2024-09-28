@@ -1,0 +1,18 @@
+﻿//キーボードマクロのファイル
+ReplaceAll('\\],\\[', '\\r\\n(', 44);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('(', 'myCalendar.book(', 40);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('\\r\\n$', ');', 44);	// すべて置換
+ReDraw(0);	// 再描画
+ReplaceAll('\\r\\n', ');', 44);	// すべて置換
+ReDraw(0);	// 再描画
+Undo(0);	// 元に戻す
+ReplaceAll('\\r\\n', ');\\r\\n', 44);	// すべて置換
+ReDraw(0);	// 再描画
+Copy(0);	// コピー
+ReplaceAll(']]', ');\\r\\n', 44);	// すべて置換
+ReDraw(0);	// 再描画
+Cut(0);	// 切り取り
+ReplaceAll('[[);', '', 40);	// すべて置換
+ReDraw(0);	// 再描画
