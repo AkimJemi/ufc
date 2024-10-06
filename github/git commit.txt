@@ -1,3 +1,11 @@
+
+2回目以降のgit add を取り消す
+全てのファイルを取り消し
+git reset HEAD
+特定のファイルのみ取り消し
+git reset HEAD file_name
+
+
 git ls-files --stage
 git cat-file -t <object>
 git cat-file -p <object>
