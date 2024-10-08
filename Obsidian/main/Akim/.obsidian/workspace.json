@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d0051feeb5ab9723",
+        "id": "18d13bd5b2f08383",
         "type": "tabs",
         "children": [
           {
-            "id": "35d0750a8064e0d3",
+            "id": "a9862b2196d179b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/日本語.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8931625e2d67b39f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/日本語敬語勉強.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abe4c8c17c150d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/日本語.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96d3019fc6db1f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Chat GPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1789448ff3862c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/単語リスト.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ac5534b5cc7e01f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/English.md",
+                "file": "HT Japanese.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English.md",
+                "file": "HT Japanese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/English.md",
+                "file": "HT Japanese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/English.md"
+                "file": "HT Japanese.md"
               }
             }
           }
@@ -207,45 +146,47 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "2ac5534b5cc7e01f",
+  "active": "febcca3fb95e70aa",
   "lastOpenFiles": [
-    "English/Chat GPT.md",
-    "速度算 01.md",
-    "Japanese/単語リスト.md",
-    "Japanese/의문의 도라이 Dorai.md",
-    "Japanese/jlpt-n1.md",
-    "Japanese/COMPANY_.md",
-    "Japanese/Chat GPT.md",
-    "English/English.md",
+    "Idonsian.md",
+    "Neka.md",
     "Pasted image 20240811003733.png",
-    "Japanese/日本語敬語勉強.md",
-    "Japanese/日本語.md",
-    "Programming/DB.md",
-    "Untitled 5.md",
-    "English/Useful Speaking English.md",
-    "코딩",
-    "Untitled 4.md",
+    "Japanese/Chat GPT.md",
+    "Japanese/COMPANY_.md",
+    "Japanese/jlpt-n1.md",
+    "Japanese/N1 Grammer.md",
+    "Japanese/의문의 도라이 Dorai.md",
+    "YT.md",
     "日本語面接.md",
+    "Untitled 1.md",
+    "Others/Untitled.md",
     "Japanese/リスコ日本語教育.md",
-    "Arabic.md",
-    "Arabic Note 001.md",
-    "Untitled 3.md",
-    "기타/용어.md",
-    "沪江日语/日语能力考N2核心语法（3）.md",
-    "Daily Note/Daily Note.md",
-    "기타",
+    "Others/Untitled 5.md",
+    "Others/Untitled 3.md",
+    "Others/Untitled 2.md",
+    "Others/Untitled 1.md",
+    "Others/Untitled 4.md",
+    "Others/YT.md",
+    "Others/HT Japanese.md",
+    "Others/Topic I wanna talk.md",
+    "Others/Schedule.md",
+    "Others/Reddit.md",
+    "Others/Programming.md",
+    "Others/Pasted image 20240811003733.png",
+    "Others/Idonsian.md",
+    "Others/Neka.md",
+    "Japanese/日本語教育.md",
+    "SPI/非言語/二語の関係/1.txt",
+    "SPI/非言語/語句の用法",
+    "SPI/非言語/語句の意味",
+    "SPI/非言語/空欄補充",
     "Template/Study.canvas",
-    "Programming/How to study.md",
-    "沪江日语/日语能力考N2核心语法（8）.md",
-    "沪江日语/日语能力考N2核心语法（9）.md",
-    "Programming",
-    "沪江日语",
-    "Untitled.canvas",
-    "English",
-    "Japanese",
-    "Words",
-    "Daily Note",
-    "Template",
-    "Study"
+    "Untitled 1",
+    "SPI/非言語/文章整序",
+    "SPI/非言語/二語の関係",
+    "SPI/英語",
+    "SPI/非言語",
+    "Untitled",
+    "Untitled.canvas"
   ]
 }
